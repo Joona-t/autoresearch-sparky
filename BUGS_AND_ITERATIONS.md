@@ -1,6 +1,10 @@
 # Bugs & Iterations
 
-_No entries yet. Document bugs, fixes, and iterations here as they occur._
+## : |2026-03-07|||Fix agent crash blindspot by forcing it to read traceback
+
+**Problem:** |2026-03-07|||Fix agent crash blindspot by forcing it to read traceback
+**Files:** 
+**Commit:** bd75534
 
 <!-- Format:
 ## YYYY-MM-DD: Short Title
